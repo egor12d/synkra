@@ -1,0 +1,15 @@
+/* Keep the athlete within the frame on wide and ultrawide monitors. */
+.hero-picture{position:absolute;inset:0;display:block}
+.hero-picture .hero-image{display:block}
+@media(min-width:1600px){
+  .hero{height:calc(100svh - 84px);min-height:720px;max-height:1100px;background:#343932}
+  .hero-image{object-fit:contain;object-position:right center}
+  .hero-content{width:calc(100% - 120px);max-width:1600px;padding-top:clamp(60px,7vh,100px)}
+  .hero h1{font-size:clamp(112px,5.2vw,160px)}
+  .hero-content>p{font-size:15px;max-width:600px}
+  .hero-shade{background:linear-gradient(90deg,#1b211cf5 0%,#1b211ca3 30%,#1b211c20 62%,transparent 82%),linear-gradient(0deg,#11171566,transparent 45%)}
+  .hero-note{right:6%;bottom:90px}
+}
+@media(min-width:2400px){.hero-content{max-width:1900px}.hero-note{bottom:110px}.hero h1{font-size:160px}}
+@media(max-width:720px){.hero-picture .hero-image{object-fit:cover;object-position:82% center}}
+@media(min-width:721px) and (max-height:760px){.hero-content{padding-top:40px}.hero-eyebrow{margin-bottom:22px}.hero h1{font-size:clamp(70px,7.2vw,102px)}.hero-content>p{margin-top:20px}.hero-buttons{margin-top:20px}.hero{min-height:650px}}

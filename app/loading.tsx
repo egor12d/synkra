@@ -1,0 +1,1 @@
+export default function Loading(){return <section className="container section" aria-live="polite"><p className="eyebrow">SYNKRA</p><h2>Готуємо твій простір…</h2><div style={{height:200,background:"#e8e7df",marginTop:30,borderRadius:4}}/></section>}

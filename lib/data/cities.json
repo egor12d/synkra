@@ -1,0 +1,1002 @@
+[
+  {
+    "id": "city-703448",
+    "slug": "kyiv",
+    "name": "Київ",
+    "region": "м. Київ",
+    "latitude": 50.45466,
+    "longitude": 30.5238,
+    "source": "https://www.geonames.org/703448/",
+    "verifiedAt": "2026-10-13"
+  },
+  {
+    "id": "city-706483",
+    "slug": "kharkiv",
+    "name": "Харків",
+    "region": "Харківська область",
+    "latitude": 49.98177,
+    "longitude": 36.25475,
+    "source": "https://www.geonames.org/706483/",
+    "verifiedAt": "2026-10-13"
+  },
+  {
+    "id": "city-698740",
+    "slug": "odesa",
+    "name": "Одеса",
+    "region": "Одеська область",
+    "latitude": 46.48572,
+    "longitude": 30.74383,
+    "source": "https://www.geonames.org/698740/",
+    "verifiedAt": "2026-10-13"
+  },
+  {
+    "id": "city-709930",
+    "slug": "dnipro",
+    "name": "Дніпро",
+    "region": "Дніпропетровська область",
+    "latitude": 48.46664,
+    "longitude": 35.04066,
+    "source": "https://www.geonames.org/709930/",
+    "verifiedAt": "2026-10-13"
+  },
+  {
+    "id": "city-709717",
+    "slug": "donetsk",
+    "name": "Донецьк",
+    "region": "Донецька область",
+    "latitude": 48.023,
+    "longitude": 37.80224,
+    "source": "https://www.geonames.org/709717/",
+    "verifiedAt": "2026-10-13"
+  },
+  {
+    "id": "city-702550",
+    "slug": "lviv",
+    "name": "Львів",
+    "region": "Львівська область",
+    "latitude": 49.83826,
+    "longitude": 24.02324,
+    "source": "https://www.geonames.org/702550/",
+    "verifiedAt": "2026-10-13"
+  },
+  {
+    "id": "city-687700",
+    "slug": "zaporizhzhya",
+    "name": "Запоріжжя",
+    "region": "Запорізька область",
+    "latitude": 47.85167,
+    "longitude": 35.11714,
+    "source": "https://www.geonames.org/687700/",
+    "verifiedAt": "2026-10-13"
+  },
+  {
+    "id": "city-703845",
+    "slug": "kryvyy-rih",
+    "name": "Кривий Ріг",
+    "region": "Дніпропетровська область",
+    "latitude": 47.90572,
+    "longitude": 33.39404,
+    "source": "https://www.geonames.org/703845/",
+    "verifiedAt": "2026-10-13"
+  },
+  {
+    "id": "city-694423",
+    "slug": "sevastopol",
+    "name": "Севастополь",
+    "region": "м. Севастополь",
+    "latitude": 44.60795,
+    "longitude": 33.52134,
+    "source": "https://www.geonames.org/694423/",
+    "verifiedAt": "2026-10-13"
+  },
+  {
+    "id": "city-700569",
+    "slug": "mykolayiv",
+    "name": "Миколаїв",
+    "region": "Миколаївська область",
+    "latitude": 46.97625,
+    "longitude": 31.99296,
+    "source": "https://www.geonames.org/700569/",
+    "verifiedAt": "2026-10-13"
+  },
+  {
+    "id": "city-689558",
+    "slug": "vinnytsya",
+    "name": "Вінниця",
+    "region": "Вінницька область",
+    "latitude": 49.2322,
+    "longitude": 28.46871,
+    "source": "https://www.geonames.org/689558/",
+    "verifiedAt": "2026-10-13"
+  },
+  {
+    "id": "city-702658",
+    "slug": "luhansk",
+    "name": "Луганськ",
+    "region": "Луганська область",
+    "latitude": 48.56814,
+    "longitude": 39.30553,
+    "source": "https://www.geonames.org/702658/",
+    "verifiedAt": "2026-10-13"
+  },
+  {
+    "id": "city-702320",
+    "slug": "makiyivka",
+    "name": "Макіївка",
+    "region": "Донецька область",
+    "latitude": 48.04782,
+    "longitude": 37.92576,
+    "source": "https://www.geonames.org/702320/",
+    "verifiedAt": "2026-10-13"
+  },
+  {
+    "id": "city-693805",
+    "slug": "simferopol",
+    "name": "Сімферополь",
+    "region": "Автономна Республіка Крим",
+    "latitude": 44.95719,
+    "longitude": 34.11079,
+    "source": "https://www.geonames.org/693805/",
+    "verifiedAt": "2026-10-13"
+  },
+  {
+    "id": "city-710735",
+    "slug": "chernihiv",
+    "name": "Чернігів",
+    "region": "Чернігівська область",
+    "latitude": 51.50541,
+    "longitude": 31.28656,
+    "source": "https://www.geonames.org/710735/",
+    "verifiedAt": "2026-10-13"
+  },
+  {
+    "id": "city-696643",
+    "slug": "poltava",
+    "name": "Полтава",
+    "region": "Полтавська область",
+    "latitude": 49.58925,
+    "longitude": 34.55367,
+    "source": "https://www.geonames.org/696643/",
+    "verifiedAt": "2026-10-13"
+  },
+  {
+    "id": "city-706369",
+    "slug": "khmelnytskyi",
+    "name": "Хмельницький",
+    "region": "Хмельницька область",
+    "latitude": 49.41835,
+    "longitude": 26.97936,
+    "source": "https://www.geonames.org/706369/",
+    "verifiedAt": "2026-10-13"
+  },
+  {
+    "id": "city-710791",
+    "slug": "cherkasy",
+    "name": "Черкаси",
+    "region": "Черкаська область",
+    "latitude": 49.44452,
+    "longitude": 32.05738,
+    "source": "https://www.geonames.org/710791/",
+    "verifiedAt": "2026-10-13"
+  },
+  {
+    "id": "city-710719",
+    "slug": "chernivtsi",
+    "name": "Чернівці",
+    "region": "Чернівецька область",
+    "latitude": 48.29045,
+    "longitude": 25.93241,
+    "source": "https://www.geonames.org/710719/",
+    "verifiedAt": "2026-10-13"
+  },
+  {
+    "id": "city-686967",
+    "slug": "zhytomyr",
+    "name": "Житомир",
+    "region": "Житомирська область",
+    "latitude": 50.26235,
+    "longitude": 28.67913,
+    "source": "https://www.geonames.org/686967/",
+    "verifiedAt": "2026-10-13"
+  },
+  {
+    "id": "city-692194",
+    "slug": "sumy",
+    "name": "Суми",
+    "region": "Сумська область",
+    "latitude": 50.91741,
+    "longitude": 34.79906,
+    "source": "https://www.geonames.org/692194/",
+    "verifiedAt": "2026-10-13"
+  },
+  {
+    "id": "city-695594",
+    "slug": "rivne",
+    "name": "Рівне",
+    "region": "Рівненська область",
+    "latitude": 50.62036,
+    "longitude": 26.23695,
+    "source": "https://www.geonames.org/695594/",
+    "verifiedAt": "2026-10-13"
+  },
+  {
+    "id": "city-707753",
+    "slug": "horlivka",
+    "name": "Горлівка",
+    "region": "Донецька область",
+    "latitude": 48.29986,
+    "longitude": 38.01709,
+    "source": "https://www.geonames.org/707753/",
+    "verifiedAt": "2026-10-13"
+  },
+  {
+    "id": "city-707471",
+    "slug": "ivano-frankivsk",
+    "name": "Івано-Франківськ",
+    "region": "Івано-Франківська область",
+    "latitude": 48.92312,
+    "longitude": 24.71248,
+    "source": "https://www.geonames.org/707471/",
+    "verifiedAt": "2026-10-13"
+  },
+  {
+    "id": "city-701822",
+    "slug": "mariupol",
+    "name": "Маріуполь",
+    "region": "Донецька область",
+    "latitude": 47.09514,
+    "longitude": 37.54131,
+    "source": "https://www.geonames.org/701822/",
+    "verifiedAt": "2026-10-13"
+  },
+  {
+    "id": "city-709932",
+    "slug": "kamyanske",
+    "name": "Кам’янське",
+    "region": "Дніпропетровська область",
+    "latitude": 48.51716,
+    "longitude": 34.60617,
+    "source": "https://www.geonames.org/709932/",
+    "verifiedAt": "2026-10-13"
+  },
+  {
+    "id": "city-691650",
+    "slug": "ternopil",
+    "name": "Тернопіль",
+    "region": "Тернопільська область",
+    "latitude": 49.55404,
+    "longitude": 25.59067,
+    "source": "https://www.geonames.org/691650/",
+    "verifiedAt": "2026-10-13"
+  },
+  {
+    "id": "city-704147",
+    "slug": "kremenchuk",
+    "name": "Кременчук",
+    "region": "Полтавська область",
+    "latitude": 49.06253,
+    "longitude": 33.40484,
+    "source": "https://www.geonames.org/704147/",
+    "verifiedAt": "2026-10-13"
+  },
+  {
+    "id": "city-705812",
+    "slug": "kropyvnytskyi",
+    "name": "Кропивницький",
+    "region": "Кіровоградська область",
+    "latitude": 48.50834,
+    "longitude": 32.26618,
+    "source": "https://www.geonames.org/705812/",
+    "verifiedAt": "2026-10-13"
+  },
+  {
+    "id": "city-702569",
+    "slug": "lutsk",
+    "name": "Луцьк",
+    "region": "Волинська область",
+    "latitude": 50.75784,
+    "longitude": 25.35024,
+    "source": "https://www.geonames.org/702569/",
+    "verifiedAt": "2026-10-13"
+  },
+  {
+    "id": "city-712165",
+    "slug": "bila-tserkva",
+    "name": "Біла Церква",
+    "region": "Київська область",
+    "latitude": 49.7994,
+    "longitude": 30.1165,
+    "source": "https://www.geonames.org/712165/",
+    "verifiedAt": "2026-10-13"
+  },
+  {
+    "id": "city-706524",
+    "slug": "kerch",
+    "name": "Керч",
+    "region": "Автономна Республіка Крим",
+    "latitude": 45.35675,
+    "longitude": 36.47542,
+    "source": "https://www.geonames.org/706524/",
+    "verifiedAt": "2026-10-13"
+  },
+  {
+    "id": "city-701404",
+    "slug": "melitopol",
+    "name": "Мелітополь",
+    "region": "Запорізька область",
+    "latitude": 46.84735,
+    "longitude": 35.38196,
+    "source": "https://www.geonames.org/701404/",
+    "verifiedAt": "2026-10-13"
+  },
+  {
+    "id": "city-704508",
+    "slug": "kramatorsk",
+    "name": "Краматорськ",
+    "region": "Донецька область",
+    "latitude": 48.73106,
+    "longitude": 37.56779,
+    "source": "https://www.geonames.org/704508/",
+    "verifiedAt": "2026-10-13"
+  },
+  {
+    "id": "city-690548",
+    "slug": "uzhhorod",
+    "name": "Ужгород",
+    "region": "Закарпатська область",
+    "latitude": 48.6242,
+    "longitude": 22.2947,
+    "source": "https://www.geonames.org/690548/",
+    "verifiedAt": "2026-10-13"
+  },
+  {
+    "id": "city-711390",
+    "slug": "brovary",
+    "name": "Бровари",
+    "region": "Київська область",
+    "latitude": 50.51097,
+    "longitude": 30.79106,
+    "source": "https://www.geonames.org/711390/",
+    "verifiedAt": "2026-10-13"
+  },
+  {
+    "id": "city-688105",
+    "slug": "yevpatoriya",
+    "name": "Євпаторія",
+    "region": "Автономна Республіка Крим",
+    "latitude": 45.20091,
+    "longitude": 33.36655,
+    "source": "https://www.geonames.org/688105/",
+    "verifiedAt": "2026-10-13"
+  },
+  {
+    "id": "city-712451",
+    "slug": "berdyansk",
+    "name": "Бердянськ",
+    "region": "Запорізька область",
+    "latitude": 46.75578,
+    "longitude": 36.78815,
+    "source": "https://www.geonames.org/712451/",
+    "verifiedAt": "2026-10-13"
+  },
+  {
+    "id": "city-713716",
+    "slug": "alchevsk",
+    "name": "Алчевськ",
+    "region": "Луганська область",
+    "latitude": 48.46906,
+    "longitude": 38.79744,
+    "source": "https://www.geonames.org/713716/",
+    "verifiedAt": "2026-10-13"
+  },
+  {
+    "id": "city-700051",
+    "slug": "nikopol",
+    "name": "Нікополь",
+    "region": "Дніпропетровська область",
+    "latitude": 47.56826,
+    "longitude": 34.39126,
+    "source": "https://www.geonames.org/700051/",
+    "verifiedAt": "2026-10-13"
+  },
+  {
+    "id": "city-693468",
+    "slug": "slovyansk",
+    "name": "Слов’янськ",
+    "region": "Донецька область",
+    "latitude": 48.84974,
+    "longitude": 37.59739,
+    "source": "https://www.geonames.org/693468/",
+    "verifiedAt": "2026-10-13"
+  },
+  {
+    "id": "city-697889",
+    "slug": "pavlohrad",
+    "name": "Павлоград",
+    "region": "Дніпропетровська область",
+    "latitude": 48.53214,
+    "longitude": 35.86878,
+    "source": "https://www.geonames.org/697889/",
+    "verifiedAt": "2026-10-13"
+  },
+  {
+    "id": "city-691999",
+    "slug": "siverskodonetsk",
+    "name": "Сіверськодонецьк",
+    "region": "Луганська область",
+    "latitude": 48.94414,
+    "longitude": 38.48754,
+    "source": "https://www.geonames.org/691999/",
+    "verifiedAt": "2026-10-13"
+  },
+  {
+    "id": "city-706950",
+    "slug": "kamyanets-podilskyi",
+    "name": "Кам’янець-Подільський",
+    "region": "Хмельницька область",
+    "latitude": 48.67882,
+    "longitude": 26.58516,
+    "source": "https://www.geonames.org/706950/",
+    "verifiedAt": "2026-10-13"
+  },
+  {
+    "id": "city-702972",
+    "slug": "lysychansk",
+    "name": "Лисичанськ",
+    "region": "Луганська область",
+    "latitude": 48.91211,
+    "longitude": 38.42088,
+    "source": "https://www.geonames.org/702972/",
+    "verifiedAt": "2026-10-13"
+  },
+  {
+    "id": "city-700646",
+    "slug": "mukachevo",
+    "name": "Мукачево",
+    "region": "Закарпатська область",
+    "latitude": 48.44248,
+    "longitude": 22.718,
+    "source": "https://www.geonames.org/700646/",
+    "verifiedAt": "2026-10-13"
+  },
+  {
+    "id": "city-705135",
+    "slug": "konotop",
+    "name": "Конотоп",
+    "region": "Сумська область",
+    "latitude": 51.23251,
+    "longitude": 33.2004,
+    "source": "https://www.geonames.org/705135/",
+    "verifiedAt": "2026-10-13"
+  },
+  {
+    "id": "city-690688",
+    "slug": "uman",
+    "name": "Умань",
+    "region": "Черкаська область",
+    "latitude": 48.7501,
+    "longitude": 30.21944,
+    "source": "https://www.geonames.org/690688/",
+    "verifiedAt": "2026-10-13"
+  },
+  {
+    "id": "city-713174",
+    "slug": "bakhmut",
+    "name": "Бахмут",
+    "region": "Донецька область",
+    "latitude": 48.59419,
+    "longitude": 37.99886,
+    "source": "https://www.geonames.org/713174/",
+    "verifiedAt": "2026-10-13"
+  },
+  {
+    "id": "city-704202",
+    "slug": "khrustalnyi",
+    "name": "Хрустальний",
+    "region": "Луганська область",
+    "latitude": 48.14241,
+    "longitude": 38.92369,
+    "source": "https://www.geonames.org/704202/",
+    "verifiedAt": "2026-10-13"
+  },
+  {
+    "id": "city-688533",
+    "slug": "yalta",
+    "name": "Ялта",
+    "region": "Автономна Республіка Крим",
+    "latitude": 44.50218,
+    "longitude": 34.16624,
+    "source": "https://www.geonames.org/688533/",
+    "verifiedAt": "2026-10-13"
+  },
+  {
+    "id": "city-688148",
+    "slug": "yenakiyeve",
+    "name": "Єнакієве",
+    "region": "Донецька область",
+    "latitude": 48.23857,
+    "longitude": 38.20403,
+    "source": "https://www.geonames.org/688148/",
+    "verifiedAt": "2026-10-13"
+  },
+  {
+    "id": "city-698625",
+    "slug": "oleksandriya",
+    "name": "Олександрія",
+    "region": "Кіровоградська область",
+    "latitude": 48.67466,
+    "longitude": 33.11761,
+    "source": "https://www.geonames.org/698625/",
+    "verifiedAt": "2026-10-13"
+  },
+  {
+    "id": "city-709611",
+    "slug": "drohobych",
+    "name": "Дрогобич",
+    "region": "Львівська область",
+    "latitude": 49.35196,
+    "longitude": 23.51121,
+    "source": "https://www.geonames.org/709611/",
+    "verifiedAt": "2026-10-13"
+  },
+  {
+    "id": "city-692975",
+    "slug": "kadiyivka",
+    "name": "Кадіївка",
+    "region": "Луганська область",
+    "latitude": 48.56818,
+    "longitude": 38.64352,
+    "source": "https://www.geonames.org/692975/",
+    "verifiedAt": "2026-10-13"
+  },
+  {
+    "id": "city-693942",
+    "slug": "shostka",
+    "name": "Шостка",
+    "region": "Сумська область",
+    "latitude": 51.86434,
+    "longitude": 33.47283,
+    "source": "https://www.geonames.org/693942/",
+    "verifiedAt": "2026-10-13"
+  },
+  {
+    "id": "city-712441",
+    "slug": "berdychiv",
+    "name": "Бердичів",
+    "region": "Житомирська область",
+    "latitude": 49.89421,
+    "longitude": 28.58236,
+    "source": "https://www.geonames.org/712441/",
+    "verifiedAt": "2026-10-13"
+  },
+  {
+    "id": "city-694382",
+    "slug": "shakhtarsk",
+    "name": "Шахтарськ",
+    "region": "Донецька область",
+    "latitude": 48.05657,
+    "longitude": 38.43826,
+    "source": "https://www.geonames.org/694382/",
+    "verifiedAt": "2026-10-13"
+  },
+  {
+    "id": "city-699445",
+    "slug": "samar",
+    "name": "Самар",
+    "region": "Дніпропетровська область",
+    "latitude": 48.62893,
+    "longitude": 35.2589,
+    "source": "https://www.geonames.org/699445/",
+    "verifiedAt": "2026-10-13"
+  },
+  {
+    "id": "city-707308",
+    "slug": "izmayil",
+    "name": "Ізмаїл",
+    "region": "Одеська область",
+    "latitude": 45.35058,
+    "longitude": 28.83751,
+    "source": "https://www.geonames.org/707308/",
+    "verifiedAt": "2026-10-13"
+  },
+  {
+    "id": "city-709161",
+    "slug": "feodosiya",
+    "name": "Феодосія",
+    "region": "Автономна Республіка Крим",
+    "latitude": 45.03199,
+    "longitude": 35.38153,
+    "source": "https://www.geonames.org/709161/",
+    "verifiedAt": "2026-10-13"
+  },
+  {
+    "id": "city-704617",
+    "slug": "kovel",
+    "name": "Ковель",
+    "region": "Волинська область",
+    "latitude": 51.21548,
+    "longitude": 24.70077,
+    "source": "https://www.geonames.org/704617/",
+    "verifiedAt": "2026-10-13"
+  },
+  {
+    "id": "city-705104",
+    "slug": "kostyantynivka",
+    "name": "Костянтинівка",
+    "region": "Донецька область",
+    "latitude": 48.52728,
+    "longitude": 37.70594,
+    "source": "https://www.geonames.org/705104/",
+    "verifiedAt": "2026-10-13"
+  },
+  {
+    "id": "city-699942",
+    "slug": "nizhyn",
+    "name": "Ніжин",
+    "region": "Чернігівська область",
+    "latitude": 51.04772,
+    "longitude": 31.88844,
+    "source": "https://www.geonames.org/699942/",
+    "verifiedAt": "2026-10-13"
+  },
+  {
+    "id": "city-693457",
+    "slug": "smila",
+    "name": "Сміла",
+    "region": "Черкаська область",
+    "latitude": 49.23295,
+    "longitude": 31.88427,
+    "source": "https://www.geonames.org/693457/",
+    "verifiedAt": "2026-10-13"
+  },
+  {
+    "id": "city-706448",
+    "slug": "kherson",
+    "name": "Херсон",
+    "region": "Херсонська область",
+    "latitude": 46.63695,
+    "longitude": 32.61458,
+    "source": "https://www.geonames.org/706448/",
+    "verifiedAt": "2026-10-13"
+  },
+  {
+    "id": "city-707565",
+    "slug": "irpin",
+    "name": "Ірпінь",
+    "region": "Київська область",
+    "latitude": 50.52201,
+    "longitude": 30.24037,
+    "source": "https://www.geonames.org/707565/",
+    "verifiedAt": "2026-10-13"
+  },
+  {
+    "id": "city-707099",
+    "slug": "kalush",
+    "name": "Калуш",
+    "region": "Івано-Франківська область",
+    "latitude": 49.02398,
+    "longitude": 24.37206,
+    "source": "https://www.geonames.org/707099/",
+    "verifiedAt": "2026-10-13"
+  },
+  {
+    "id": "city-710554",
+    "slug": "sheptytskyi",
+    "name": "Шептицький",
+    "region": "Львівська область",
+    "latitude": 50.39403,
+    "longitude": 24.23935,
+    "source": "https://www.geonames.org/710554/",
+    "verifiedAt": "2026-10-13"
+  },
+  {
+    "id": "city-711660",
+    "slug": "boryspil",
+    "name": "Бориспіль",
+    "region": "Київська область",
+    "latitude": 50.35051,
+    "longitude": 30.95263,
+    "source": "https://www.geonames.org/711660/",
+    "verifiedAt": "2026-10-13"
+  },
+  {
+    "id": "city-692105",
+    "slug": "dovzhansk",
+    "name": "Довжанськ",
+    "region": "Луганська область",
+    "latitude": 48.07615,
+    "longitude": 39.64744,
+    "source": "https://www.geonames.org/692105/",
+    "verifiedAt": "2026-10-13"
+  },
+  {
+    "id": "city-697593",
+    "slug": "pervomaysk",
+    "name": "Первомайськ",
+    "region": "Миколаївська область",
+    "latitude": 48.04478,
+    "longitude": 30.84784,
+    "source": "https://www.geonames.org/697593/",
+    "verifiedAt": "2026-10-13"
+  },
+  {
+    "id": "city-704901",
+    "slug": "korosten",
+    "name": "Коростень",
+    "region": "Житомирська область",
+    "latitude": 50.9512,
+    "longitude": 28.63859,
+    "source": "https://www.geonames.org/704901/",
+    "verifiedAt": "2026-10-13"
+  },
+  {
+    "id": "city-692372",
+    "slug": "stryi",
+    "name": "Стрий",
+    "region": "Львівська область",
+    "latitude": 49.26103,
+    "longitude": 23.84845,
+    "source": "https://www.geonames.org/692372/",
+    "verifiedAt": "2026-10-13"
+  },
+  {
+    "id": "city-705392",
+    "slug": "kolomyia",
+    "name": "Коломия",
+    "region": "Івано-Франківська область",
+    "latitude": 48.52496,
+    "longitude": 25.03712,
+    "source": "https://www.geonames.org/705392/",
+    "verifiedAt": "2026-10-13"
+  },
+  {
+    "id": "city-704422",
+    "slug": "pokrovsk",
+    "name": "Покровськ",
+    "region": "Донецька область",
+    "latitude": 48.28014,
+    "longitude": 37.17706,
+    "source": "https://www.geonames.org/704422/",
+    "verifiedAt": "2026-10-13"
+  },
+  {
+    "id": "city-707688",
+    "slug": "chornomors-k",
+    "name": "Чорноморськ",
+    "region": "Одеська область",
+    "latitude": 46.29914,
+    "longitude": 30.65529,
+    "source": "https://www.geonames.org/707688/",
+    "verifiedAt": "2026-10-13"
+  },
+  {
+    "id": "city-706466",
+    "slug": "khartsyzk",
+    "name": "Харцизьк",
+    "region": "Донецька область",
+    "latitude": 48.04277,
+    "longitude": 38.14025,
+    "source": "https://www.geonames.org/706466/",
+    "verifiedAt": "2026-10-13"
+  },
+  {
+    "id": "city-699553",
+    "slug": "zvyahel",
+    "name": "Звягель",
+    "region": "Житомирська область",
+    "latitude": 50.59141,
+    "longitude": 27.60884,
+    "source": "https://www.geonames.org/699553/",
+    "verifiedAt": "2026-10-13"
+  },
+  {
+    "id": "city-693381",
+    "slug": "snizhne",
+    "name": "Сніжне",
+    "region": "Донецька область",
+    "latitude": 48.02328,
+    "longitude": 38.76205,
+    "source": "https://www.geonames.org/693381/",
+    "verifiedAt": "2026-10-13"
+  },
+  {
+    "id": "city-695274",
+    "slug": "rubizhne",
+    "name": "Рубіжне",
+    "region": "Луганська область",
+    "latitude": 49.00849,
+    "longitude": 38.37972,
+    "source": "https://www.geonames.org/695274/",
+    "verifiedAt": "2026-10-13"
+  },
+  {
+    "id": "city-702760",
+    "slug": "lozova",
+    "name": "Лозова",
+    "region": "Харківська область",
+    "latitude": 48.89066,
+    "longitude": 36.31412,
+    "source": "https://www.geonames.org/702760/",
+    "verifiedAt": "2026-10-13"
+  },
+  {
+    "id": "city-616743",
+    "slug": "druzhkivka",
+    "name": "Дружківка",
+    "region": "Донецька область",
+    "latitude": 48.61995,
+    "longitude": 37.52537,
+    "source": "https://www.geonames.org/616743/",
+    "verifiedAt": "2026-10-13"
+  },
+  {
+    "id": "city-691374",
+    "slug": "chystyakove",
+    "name": "Чистякове",
+    "region": "Донецька область",
+    "latitude": 48.03876,
+    "longitude": 38.59685,
+    "source": "https://www.geonames.org/691374/",
+    "verifiedAt": "2026-10-13"
+  },
+  {
+    "id": "city-709276",
+    "slug": "enerhodar",
+    "name": "Енергодар",
+    "region": "Запорізька область",
+    "latitude": 47.49048,
+    "longitude": 34.66199,
+    "source": "https://www.geonames.org/709276/",
+    "verifiedAt": "2026-10-13"
+  },
+  {
+    "id": "city-696108",
+    "slug": "pryluky",
+    "name": "Прилуки",
+    "region": "Чернігівська область",
+    "latitude": 50.59525,
+    "longitude": 32.38382,
+    "source": "https://www.geonames.org/696108/",
+    "verifiedAt": "2026-10-13"
+  },
+  {
+    "id": "city-713259",
+    "slug": "antratsyt",
+    "name": "Антрацит",
+    "region": "Луганська область",
+    "latitude": 48.11638,
+    "longitude": 39.08863,
+    "source": "https://www.geonames.org/713259/",
+    "verifiedAt": "2026-10-13"
+  },
+  {
+    "id": "city-6559559",
+    "slug": "horishni-plavni",
+    "name": "Горішні Плавні",
+    "region": "Полтавська область",
+    "latitude": 49.00835,
+    "longitude": 33.62926,
+    "source": "https://www.geonames.org/6559559/",
+    "verifiedAt": "2026-10-13"
+  },
+  {
+    "id": "city-699035",
+    "slug": "novovolynsk",
+    "name": "Нововолинськ",
+    "region": "Волинська область",
+    "latitude": 50.72949,
+    "longitude": 24.15976,
+    "source": "https://www.geonames.org/699035/",
+    "verifiedAt": "2026-10-13"
+  },
+  {
+    "id": "city-704403",
+    "slug": "sorokyne",
+    "name": "Сорокине",
+    "region": "Луганська область",
+    "latitude": 48.29329,
+    "longitude": 39.7332,
+    "source": "https://www.geonames.org/704403/",
+    "verifiedAt": "2026-10-13"
+  },
+  {
+    "id": "city-712160",
+    "slug": "bilhorod-dnistrovskyi",
+    "name": "Білгород-Дністровський",
+    "region": "Одеська область",
+    "latitude": 46.19484,
+    "longitude": 30.34827,
+    "source": "https://www.geonames.org/712160/",
+    "verifiedAt": "2026-10-13"
+  },
+  {
+    "id": "city-713749",
+    "slug": "okhtyrka",
+    "name": "Охтирка",
+    "region": "Сумська область",
+    "latitude": 50.30852,
+    "longitude": 34.89468,
+    "source": "https://www.geonames.org/713749/",
+    "verifiedAt": "2026-10-13"
+  },
+  {
+    "id": "city-710035",
+    "slug": "myrnohrad",
+    "name": "Мирноград",
+    "region": "Донецька область",
+    "latitude": 48.3099,
+    "longitude": 37.26513,
+    "source": "https://www.geonames.org/710035/",
+    "verifiedAt": "2026-10-13"
+  },
+  {
+    "id": "city-707292",
+    "slug": "izyum",
+    "name": "Ізюм",
+    "region": "Харківська область",
+    "latitude": 49.20697,
+    "longitude": 37.27679,
+    "source": "https://www.geonames.org/707292/",
+    "verifiedAt": "2026-10-13"
+  },
+  {
+    "id": "city-695379",
+    "slug": "rovenky",
+    "name": "Ровеньки",
+    "region": "Луганська область",
+    "latitude": 48.08277,
+    "longitude": 39.37696,
+    "source": "https://www.geonames.org/695379/",
+    "verifiedAt": "2026-10-13"
+  },
+  {
+    "id": "city-701855",
+    "slug": "marhanets",
+    "name": "Марганець",
+    "region": "Дніпропетровська область",
+    "latitude": 47.63088,
+    "longitude": 34.6245,
+    "source": "https://www.geonames.org/701855/",
+    "verifiedAt": "2026-10-13"
+  },
+  {
+    "id": "city-711369",
+    "slug": "bryanka",
+    "name": "Брянка",
+    "region": "Луганська область",
+    "latitude": 48.511,
+    "longitude": 38.67222,
+    "source": "https://www.geonames.org/711369/",
+    "verifiedAt": "2026-10-13"
+  },
+  {
+    "id": "city-702723",
+    "slug": "lubny",
+    "name": "Лубни",
+    "region": "Полтавська область",
+    "latitude": 50.01413,
+    "longitude": 32.99975,
+    "source": "https://www.geonames.org/702723/",
+    "verifiedAt": "2026-10-13"
+  },
+  {
+    "id": "city-699839",
+    "slug": "nova-kakhovka",
+    "name": "Нова Каховка",
+    "region": "Херсонська область",
+    "latitude": 46.75966,
+    "longitude": 33.35591,
+    "source": "https://www.geonames.org/699839/",
+    "verifiedAt": "2026-10-13"
+  },
+  {
+    "id": "city-709248",
+    "slug": "fastiv",
+    "name": "Фастів",
+    "region": "Київська область",
+    "latitude": 50.07796,
+    "longitude": 29.91963,
+    "source": "https://www.geonames.org/709248/",
+    "verifiedAt": "2026-10-13"
+  }
+]

@@ -1,0 +1,13 @@
+import { existsSync, copyFileSync } from 'node:fs';
+import { spawnSync } from 'node:child_process';
+import { fileURLToPath } from 'node:url';
+import { ensurePaymentTokenKey } from './local-payment-key.mjs';
+import { configureLocalAdmin } from './configure-local-admin.mjs';
+const root=fileURLToPath(new URL('../',import.meta.url));
+if(!existsSync(new URL('../node_modules/wrangler/bin/wrangler.js',import.meta.url)))throw new Error('Install dependencies first with npm ci.');
+if(!existsSync(new URL('../.dev.vars',import.meta.url)))copyFileSync(new URL('../.dev.vars.example',import.meta.url),new URL('../.dev.vars',import.meta.url));
+ensurePaymentTokenKey(fileURLToPath(new URL('../.dev.vars',import.meta.url)));
+const result=spawnSync(process.execPath,['scripts/migrate-local.mjs'],{cwd:root,stdio:'inherit'});
+if(result.error)throw result.error;if(result.status!==0)process.exit(result.status??1);
+configureLocalAdmin();
+console.log('SYNKRA initialized. Set your BOOTSTRAP_ADMIN_EMAIL in .dev.vars, then run node scripts/start-local.mjs.');

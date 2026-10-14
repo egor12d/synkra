@@ -1,0 +1,22 @@
+# SYNKRA: synchronize source files, not running databases or machine-local files.
+!/.dev.vars.example
+/node_modules
+/dist
+/.next
+/.vinext
+/.wrangler
+/.sites-runtime
+/.git
+/.codex
+/.agents
+/.dev.vars
+/.dev.vars.*
+/.env
+/.env.local
+/.env.*.local
+*.sqlite
+*.sqlite-*
+*.db
+*.db-wal
+*.db-shm
+*.log
