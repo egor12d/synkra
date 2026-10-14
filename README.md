@@ -1,3 +1,5 @@
+**[📖 Project overview & review guide — English / Русский](REVIEW.md)**
+
 ![SYNKRA — главная страница](synkra-home-clean.png)
 # SYNKRA — Рух, що стає звичкою
 
