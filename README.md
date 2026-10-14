@@ -1,3 +1,4 @@
+![SYNKRA — главная страница](synkra-home-clean.png)
 # SYNKRA — Рух, що стає звичкою
 
 Ukrainian fitness platform with a responsive React interface, server accounts, persistent fitness tracking, bookings, CRM and a signed payment adapter. The project uses Vinext/App Router on a Cloudflare Worker, TypeScript, D1/SQLite, Drizzle, Zod and CSS. D1 replaces the initially proposed PostgreSQL stack to suit the hosting runtime; no PostgreSQL, Redis or Docker service is required.
