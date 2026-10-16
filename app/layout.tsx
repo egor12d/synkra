@@ -1,10 +1,11 @@
 import type { Metadata } from "next";
+import { env } from "cloudflare:workers";
 import "./globals.css";
 import "./hero-responsive.css";
 import { Header, Footer, CookieChoice } from "@/components/Shell";
 
 export const metadata: Metadata = {
-  metadataBase: new URL("https://synkra-fitness-ukraine.aglowsloth32.chatgpt.site"),
+  metadataBase: new URL((env as { APP_URL?: string }).APP_URL || "http://127.0.0.1:5174"),
   title: {default: "SYNKRA — Рух, що стає звичкою", template: "%s | SYNKRA"},
   description: "Клуби, тренери, програми та харчування в одній українській фітнес-екосистемі. Знайди свій ритм із SYNKRA.",
   openGraph: {title:"SYNKRA — Твоя сила. Твій ритм. Твій рух.",description:"Рух, що стає звичкою.",locale:"uk_UA",type:"website",images:["/images/hero.webp"]},
